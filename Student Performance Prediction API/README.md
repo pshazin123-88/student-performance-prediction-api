@@ -1,6 +1,6 @@
 # Student Performance Prediction API
 
-## 📌 Project Overview
+## Project Overview
 
 This project is a Machine Learning REST API built using Flask. It predicts whether a student is likely to **Pass** or **Fail** based on various academic and personal factors.
 
@@ -8,7 +8,7 @@ The model was trained using a Random Forest Classifier on the Student Performanc
 
 ---
 
-## 🚀 Features
+## Features
 
 * Predicts student performance
 * REST API using Flask
@@ -19,7 +19,7 @@ The model was trained using a Random Forest Classifier on the Student Performanc
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 * Python
 * Flask
@@ -31,7 +31,7 @@ The model was trained using a Random Forest Classifier on the Student Performanc
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 student-performance-api/
@@ -52,7 +52,7 @@ student-performance-api/
 
 ---
 
-## ▶️ Run the Application
+## Run the Application
 
 Install dependencies:
 
@@ -90,7 +90,7 @@ Example response:
 
 ---
 
-## 🐳 Docker
+## Docker
 
 Build the Docker image:
 
@@ -106,6 +106,6 @@ docker run -p 5000:5000 student-performance-api
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **P. Shazin Faisal**
