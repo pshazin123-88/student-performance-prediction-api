@@ -1,0 +1,21 @@
+{
+    "Hours_Studied": 6,
+    "Attendance": 90,
+    "Parental_Involvement": "High",
+    "Access_to_Resources": "High",
+    "Extracurricular_Activities": "Yes",
+    "Sleep_Hours": 8,
+    "Previous_Scores": 85,
+    "Motivation_Level": "High",
+    "Internet_Access": "Yes",
+    "Tutoring_Sessions": 3,
+    "Family_Income": "Medium",
+    "Teacher_Quality": "High",
+    "School_Type": "Public",
+    "Peer_Influence": "Positive",
+    "Physical_Activity": 4,
+    "Learning_Disabilities": "No",
+    "Parental_Education_Level": "College",
+    "Distance_from_Home": "Near",
+    "Gender": "Male"
+}
